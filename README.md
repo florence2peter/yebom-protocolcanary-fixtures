@@ -4,7 +4,7 @@
 ![ProtocolCanary-Fixtures](assets/ProtocolCanary-Fixtures-banner.svg)
 
 
-[![Validate](https://github.com/StellarCanary/ProtocolCanary-Fixtures/actions/workflows/validate.yml/badge.svg)](https://github.com/StellarCanary/ProtocolCanary-Fixtures/actions/workflows/validate.yml) [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) <!-- fixtures-badge:start -->[![Fixtures: 91](https://img.shields.io/badge/fixtures-91-blue.svg)](#protocol-packs)<!-- fixtures-badge:end -->
+[![Validate](https://github.com/florence2peter/yebom-protocolcanary-fixtures/actions/workflows/validate.yml/badge.svg)](https://github.com/florence2peter/yebom-protocolcanary-fixtures/actions/workflows/validate.yml) [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) <!-- fixtures-badge:start -->[![Fixtures: 91](https://img.shields.io/badge/fixtures-91-blue.svg)](#protocol-packs)<!-- fixtures-badge:end -->
 
 Canonical compatibility fixtures for Stellar Protocol Canary.
 
@@ -48,7 +48,7 @@ Protocol specification / upstream implementation
           Compatibility Result
 ```
 [Protocol specification / upstream implementation](https://github.com/StellarCanary/Protocol-Canary)
-[Canonical fixture / ProtocolCanary-Fixtures](https://github.com/StellarCanary/ProtocolCanary-Fixtures)
+[Canonical fixture / ProtocolCanary-Fixtures](https://github.com/florence2peter/yebom-protocolcanary-fixtures)
 [Protocol-Canary](https://github.com/StellarCanary/Protocol-Canary)
 [Compatibility Result](https://github.com/StellarCanary/Protocol-Canary)
 `ProtocolCanary-Fixtures` defines **what** should be tested. The
@@ -352,9 +352,9 @@ published for this project.
 
 **Community:** There is no dedicated community channel yet. Contribution
 and discussion happen through GitHub
-[issues](https://github.com/StellarCanary/ProtocolCanary-Fixtures/issues)
+[issues](https://github.com/florence2peter/yebom-protocolcanary-fixtures/issues)
 and pull requests on this repository.
 
 **Contributors:**
 
-[![Contributors](https://contrib.rocks/image?repo=StellarCanary/ProtocolCanary-Fixtures)](https://github.com/StellarCanary/ProtocolCanary-Fixtures/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=florence2peter/yebom-protocolcanary-fixtures)](https://github.com/florence2peter/yebom-protocolcanary-fixtures/graphs/contributors)
